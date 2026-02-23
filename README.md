@@ -4,20 +4,27 @@
 
 <h2 align="center">Обо мне</h2>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 20px 0;">
-  <!-- Левая гифка / картинка -->
-  <img src="https://media1.tenor.com/m/PtJdGmm8Mi4AAAAd/ram-rezero.gif" width="180" alt="Left Anime GIF" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 30px 0;">
+  <!-- Левая гифка -->
+  <img src="[https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СЛЕВА.gif](https://media1.tenor.com/m/9NG4T3vNSOsAAAAd/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9.gif)" 
+       width="220" 
+       alt="Left GIF" 
+       style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
 
   <!-- Текст по центру -->
-  <div style="max-width: 400px; text-align: center; line-height: 1.6; color: #ddd;">
+  <div style="max-width: 450px; text-align: center; line-height: 1.7; color: #ddd; font-size: 17px;">
     Frontend / Backend разработчик<br>
     Пишу современные интерфейсы и бэкенды.<br>
     Делаю удобные, быстрые и красивые сайты.<br><br>
-    📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
+    📍 Краснодар / Россия<br>
+    ✉️ andrey109092git.@gmail.com
   </div>
 
-  <!-- Правая гифка / картинка -->
-  <img src="https://media.tenor.com/0I3t9md3cwsAAAAj/%D8%A7%D9%84%D9%81%D9%8A%D9%86%D8%B3%D8%AA%D9%88-%D9%87%D8%A7%D9%81%D9%8A.gif" width="180" alt="Right Anime GIF" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
+  <!-- Правая гифка -->
+  <img src="https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СПРАВА.gif" 
+       width="220" 
+       alt="Right GIF" 
+       style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
 </div>
 
 <br>
