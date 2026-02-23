@@ -4,9 +4,9 @@
 
 <h2 align="center">Обо мне</h2>
 
-<table style="width:100%; max-width:9000px; margin:30px auto; border-collapse:collapse;">
+<table style="width:100%; max-width:900px; margin:30px auto; border-collapse:collapse;">
   <tr>
-    <td style="width:25%; text-align:center; vertical-align:middle; padding:10px;">
+    <td style="width:0%; text-align:center; vertical-align:middle; padding:10px;">
       <img src="https://media1.tenor.com/m/9NG4T3vNSOsAAAAd/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9.gif" 
            width="220" 
            alt="Left GIF" 
