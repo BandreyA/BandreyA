@@ -17,18 +17,5 @@
 <h2 align="center">Технологии, которыми пользуюсь</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,postgres,mongodb,git,github,vscode,figma,webpack,vite&perline=7" alt="Tech Stack" />
-</p>
-
-<!-- 
-  Если хочешь больше иконок — просто добавляй через запятую в ?i=
-  Примеры других популярных:
-  python,django,flask,java,spring,go,rust,firebase,supabase,aws,docker,kubernetes,linux,postman
--->
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=dracula&hide_border=true" alt="Streak" width="48%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode,vite&perline=7" alt="Tech Stack" />
 </p>
