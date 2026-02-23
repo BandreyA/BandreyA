@@ -5,7 +5,7 @@
 
 <!-- Typing SVG с аниме-вайбом -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Привет!+Я+Андрей+kun~;Frontend+%2F+Fullstack+Developer;Люблю+React+и+аниме+🌸;Код+пишу+под+lo-fi+waifu;Open+to+cool+projects+✨" alt="Typing SVG Anime Style" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Привет!+Я+Андрей+kun~;Frontend+%2F+Fullstack+Developer;Люблю+React+и+аниме+🌸;" alt="Typing SVG Anime Style" />
 </p>
 
 <!-- Обо мне с кавайными эмодзи -->
@@ -45,7 +45,7 @@
 
 <!-- GIF с аниме-девушкой или чибби (найди на Tenor/Giphy и вставь прямую ссылку) -->
 <p align="center">
-  <img src="https://media.tenor.com/твоя_ссылка.gif" width="300" alt="Anime Waifu GIF" />
+  <img src="https://tenor.com/ru/view/love-chunibyo-%26-other-delusions-chunibyo-anime-rikka-gif-13488503365234020937" width="300" alt="Anime Waifu GIF" />
 </p>
 
 <!-- Контакты в кавайном стиле -->
