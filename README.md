@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=5000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=620&lines=Привет!+Я+Андрей;Frontend+%2F+Fullstack;Код+→+как+манга+в+grayscale...;Тёмная+тема+forever." alt="Glitch Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=6000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=580&lines=Андрей+Developer;Frontend+%2F+Fullstack;Чистый+код.+Тёмная+тема.;Привет...+давай+создадим+что-то+крутое." alt="Smooth Gradient Typing" />
 </p>
 
 <h2 align="center">Обо мне</h2>
