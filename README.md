@@ -18,7 +18,7 @@
   </div>
 
   <!-- Правая гифка / картинка -->
-  <img src="https://media.tenor.com/ВАШ_URL_ГИФКИ_СПРАВА.gif" width="180" alt="Right Anime GIF" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
+  <img src="https://media.tenor.com/itachi.gif" width="180" alt="Right Anime GIF" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
 </div>
 
 <br>
