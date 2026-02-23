@@ -6,15 +6,12 @@
 
 <table style="width:100%; max-width:900px; margin:30px auto; border-collapse:collapse;">
   <tr>
-    <!-- Левая гифка -->
     <td style="width:25%; text-align:center; vertical-align:middle; padding:10px;">
       <img src="https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СЛЕВА.gif" 
            width="220" 
            alt="Left GIF" 
            style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.6);">
     </td>
-
-    <!-- Текст посередине --
     <td style="width:50%; text-align:center; vertical-align:middle; padding:20px; color:#ddd; line-height:1.7; font-size:17px;">
       Frontend / Backend разработчик<br>
       Пишу современные интерфейсы и бэкенды.<br>
@@ -22,8 +19,6 @@
       📍 Краснодар / Россия<br>
       ✉️ andrey109092git.@gmail.com
     </td>
-
-    <!-- Правая гифка -->
     <td style="width:25%; text-align:center; vertical-align:middle; padding:10px;">
       <img src="https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СПРАВА.gif" 
            width="220" 
