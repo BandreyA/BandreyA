@@ -12,7 +12,7 @@
            alt="Left GIF" 
            style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.6);">
     </td>
-    <td style="width:50%; text-align:center; vertical-align:middle; padding:20px; color:#ddd; line-height:1.7; font-size:17px;">
+    <td style="width:50%; text-align:center; vertical-align:center; padding:20px; color:#ddd; line-height:1.7; font-size:17px;">
       Frontend / Backend разработчик<br>
       Пишу современные интерфейсы и бэкенды.<br>
       Делаю удобные, быстрые и красивые сайты.<br><br>
