@@ -20,16 +20,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
 </p>
 
-
-<br>
-
-<h2 align="center">Моя статистика</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BandreyA&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BandreyA&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BandreyA&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://linkedin.com/in/твой-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://твой-сайт.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
