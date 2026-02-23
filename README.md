@@ -17,5 +17,5 @@
 <h2 align="center">Технологии, которыми пользуюсь</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode,vite&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode,&perline=7" alt="Tech Stack" />
 </p>
