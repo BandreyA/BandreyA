@@ -6,7 +6,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: nowrap; margin: 30px 0;">
   <!-- Левая гифка -->
-  <img src="https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СЛЕВА.gif" 
+  <img src="https://media1.tenor.com/m/PtJdGmm8Mi4AAAAd/ram-rezero.gif" 
        width="220" 
        alt="Left GIF">
 
