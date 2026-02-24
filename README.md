@@ -22,7 +22,7 @@
     </td>
     <!-- Правая гифка -->
     <td style="width:25%; text-align:center; padding:0 10px;">
-      <img src="https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СПРАВА.gif" 
+      <img src="https://media1.tenor.com/m/jLs_HsGKVQMAAAAd/wow-brat.gif" 
            width="220" 
            alt="Right GIF">
     </td>
