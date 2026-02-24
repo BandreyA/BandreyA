@@ -14,7 +14,7 @@
     📍 Краснодар / Россия<br>
     ✉️ andrey109092git.@gmail.com
 </pre>
-
+<br>
   <img src="https://media.tenor.com/PYAw6qnRaf8AAAAj/ifera-anime.gif" width="220" alt="Right" style="vertical-align: middle; margin: 0 20px;">
 </div>
 
