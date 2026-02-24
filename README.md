@@ -12,7 +12,7 @@
   📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
 </pre>
 <p>
-    ------------------------------
+    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 </p>
 <pre>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
