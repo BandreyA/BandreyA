@@ -17,7 +17,7 @@
 </pre>
 
 <br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://media1.tenor.com/m/cdzfc6_ZUvkAAAAC/luffy-hungry.gif" height="40" />
 <br><br><br>
 
     
