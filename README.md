@@ -23,6 +23,6 @@
     
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/33175345)
 [![](https://img.shields.io/badge/steam-1b2838)](https://steamcommunity.com/profiles/76561198938747260/)
-[![](https://img.shields.io/badge/steam-1b2838)](https://steamcommunity.com/profiles/76561198938747260/)
+[![](https://img.shields.io/badge/telegram-0088CC)](https://t.me/Clownadddaaa)
 
 </div>
