@@ -15,11 +15,12 @@
     ------------------------------
 </p>
 <pre>
-  Frontend / Backend разработчик
-  Пишу современные интерфейсы и бэкенды.
-  Делаю удобные, быстрые и красивые сайты.
-  📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
+  Технологии, которыми пользуюсь
 </pre>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
+</p>
+
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
