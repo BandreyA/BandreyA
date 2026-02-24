@@ -11,10 +11,7 @@
   Делаю удобные, быстрые и красивые сайты.
   📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
 </pre>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3200&pause=1000&color=aaaaaa&center=true&vCenter=true&width=320&lines=────────────────────────────────" style="margin:0;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3200&pause=1000&color=aaaaaa&center=true&vCenter=true&width=320&lines=────────────────────────────────" style="transform:scaleX(-1);margin:0 -10px;">
-</div>
+
 <pre>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
 </pre>
