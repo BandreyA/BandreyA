@@ -18,7 +18,7 @@
 
 <br>
 <img src="https://media.tenor.com/nFODQdUDbwoAAAAm/lerolero-dancing-cat.webp" height="70" />
-<br><br>
+<br>
 
     
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/33175345)
