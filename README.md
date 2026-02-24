@@ -5,7 +5,6 @@
     
 <h2 align="center">Обо мне</h2>
 <img src="https://media.tenor.com/3_HsKgcXkFwAAAAM/walter-white-breaking-bad.gif" width="25%" align="right" />
-<br>
 <pre>
   Frontend / Backend разработчик
   Пишу современные интерфейсы и бэкенды.
