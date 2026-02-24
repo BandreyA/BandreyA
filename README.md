@@ -11,16 +11,10 @@
   Делаю удобные, быстрые и красивые сайты.
   📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
 </pre>
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=300&lines=──────────────────────────────" 
-    style="margin:0; padding:0;"
-  />
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=300&lines=──────────────────────────────" 
-    style="transform: scaleX(-1); margin-left: -12px; margin-right: -12px; padding:0;"
-  />
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3200&pause=1000&color=aaaaaa&center=true&vCenter=true&width=320&lines=────────────────────────────────" style="margin:0;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3200&pause=1000&color=aaaaaa&center=true&vCenter=true&width=320&lines=────────────────────────────────" style="transform:scaleX(-1);margin:0 -10px;">
+</div>
 <pre>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
 </pre>
