@@ -4,30 +4,19 @@
 
 <h2 align="center">Обо мне</h2>
 
-<table style="width:100%; max-width:1000px; margin:30px auto; border-collapse:collapse;">
-  <tr style="vertical-align:middle;">
-    <!-- Левая гифка -->
-    <td style="width:25%; text-align:center; padding:0 10px;">
-      <img src="https://media1.tenor.com/m/9NG4T3vNSOsAAAAd/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9.gif" 
-           width="220" 
-           alt="Left GIF">
-    </td>
-    <!-- Текст посередине -->
-    <td style="width:50%; text-align:center; padding:0 20px; color:#ddd; line-height:1.7; font-size:17px;">
-      Frontend / Backend разработчик<br>
-      Пишу современные интерфейсы и бэкенды.<br>
-      Делаю удобные, быстрые и красивые сайты.<br><br>
-      📍 Краснодар / Россия<br>
-      ✉️ andrey109092git.@gmail.com
-    </td>
-    <!-- Правая гифка -->
-    <td style="width:25%; text-align:center; padding:0 10px;">
-      <img src="https://media1.tenor.com/m/jLs_HsGKVQMAAAAd/wow-brat.gif" 
-           width="220" 
-           alt="Right GIF">
-    </td>
-  </tr>
-</table>
+<div style="text-align: center; white-space: nowrap; margin: 30px 0;">
+  <img src="https://media.tenor.com/PYAw6qnRaf8AAAAj/ifera-anime.gif" width="220" alt="Left" style="vertical-align: middle; margin: 0 20px;">
+
+  <span style="display: inline-block; vertical-align: middle; max-width: 450px; line-height: 1.7;">
+    Frontend / Backend разработчик<br>
+    Пишу современные интерфейсы и бэкенды.<br>
+    Делаю удобные, быстрые и красивые сайты.<br><br>
+    📍 Краснодар / Россия<br>
+    ✉️ andrey109092git.@gmail.com
+  </span>
+
+  <img src="https://media.tenor.com/PYAw6qnRaf8AAAAj/ifera-anime.gif" width="220" alt="Right" style="vertical-align: middle; margin: 0 20px;">
+</div>
 
 <br>
 
