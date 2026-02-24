@@ -4,7 +4,7 @@
 </p>
     
 <h2 align="center">Обо мне</h2>
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://media.tenor.com/Z7JnijiEGrEAAAAi/kakashi-menor.gif" width="25%" align="right" />
 <pre>
   Frontend / Backend разработчик
   Пишу современные интерфейсы и бэкенды.
