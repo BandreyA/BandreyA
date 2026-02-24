@@ -11,9 +11,43 @@
   Делаю удобные, быстрые и красивые сайты.
   📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
 </pre>
-<p>
-    ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-</p>
+<div align="center" style="height:60px; position:relative;">
+  <div class="expand-line"></div>
+</div>
+
+<style>
+  .expand-line::before,
+  .expand-line::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 5px;               /* толщина */
+    background: #ffffff;
+    border-radius: 3px;
+    width: 0;
+    animation: grow 4s ease-in-out infinite;
+  }
+
+  .expand-line::before {
+    right: 50%;
+    transform-origin: right center;
+  }
+
+  .expand-line::after {
+    left: 50%;
+    transform-origin: left center;
+  }
+
+  @keyframes grow {
+    0%, 100% {
+      width: 0;
+    }
+    45%, 55% {
+      width: 260px;            /* половина полной длины */
+    }
+  }
+</style>
 <pre>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
 </pre>
