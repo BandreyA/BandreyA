@@ -4,7 +4,6 @@
 </p>
     
 <h2 align="center">Обо мне</h2>
-<img src="https://media.tenor.com/557GUrcXp14AAAAM/jinx-cat-javascript.gif" width="25%" align="right" />
 <pre>
   Frontend / Backend разработчик
   Пишу современные интерфейсы и бэкенды.
